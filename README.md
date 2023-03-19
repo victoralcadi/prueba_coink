@@ -1,2 +1,2 @@
 # prueba_coink
-This repository is for the my Data Analyst test at Coink
+This repository is for the my Data Scientist test at Coink
